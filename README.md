@@ -4,7 +4,7 @@ Convert the encoding of text files to utf-8.
 
 ## Install:
 ```bash
-sh install.sh
+./install
 ```
 
 ## Usage:

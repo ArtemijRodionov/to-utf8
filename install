@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 set -e
 
 pip show chardet > /dev/null || pip install -U chardet
